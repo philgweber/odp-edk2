@@ -10,3 +10,6 @@
 [submodule "trusted-firmware-a"]
 	path = trusted-firmware-a
 	url = https://github.com/ARM-software/arm-trusted-firmware.git
+[submodule "qemu"]
+	path = qemu
+	url = https://github.com/qemu/qemu.git
